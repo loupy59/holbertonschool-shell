@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 111 directories
+chmod -R 111 directories_permissions
