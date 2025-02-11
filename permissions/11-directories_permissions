@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 111 directories_permissions
+find . -type d -exec  chmod +x {} /+
