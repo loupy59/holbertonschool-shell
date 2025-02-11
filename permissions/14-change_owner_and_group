@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent root
+find hello -user guillame -exec chown vincent {} \;
